@@ -1,0 +1,39 @@
+{
+  "name": "eslint-config-jonyonson",
+  "version": "1.0.0",
+  "description": "ESLint Shareable Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonyonson/eslint-config-jonyonson.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config"
+  ],
+  "author": "Jonathan Taylor (https://twitter.com/jonyonson)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonyonson/eslint-config-jonyonson/issues"
+  },
+  "homepage": "https://github.com/jonyonson/eslint-config-jonyonson#readme",
+  "peerDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "prettier": "^1.9.2"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.1.2",
+    "eslint": "^4.14.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.4.0",
+    "prettier": "^1.9.2"
+  },
+  "dependencies": {}
+}
