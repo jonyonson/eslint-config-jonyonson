@@ -1,5 +1,5 @@
-🔨🔨🔨 [INCOMPLETE]
-# eslint-config-jonyonson
+# INCOMPLETE 🔨🔨🔨 
+## eslint-config-jonyonson
 
 ## Installation
 
