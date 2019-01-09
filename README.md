@@ -1,4 +1,4 @@
-# eslint-config-jonyonson
+# eslint-config-jonyonson [⚒WIP🛠]
 
 ## Installation
 
